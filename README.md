@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/c6956d3e-ca78-4d71-80b7-72878fee4242)
+
+
 Quantum Maze Generator and Random Utilities
 This project provides three main components:
 
