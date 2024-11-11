@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c6956d3e-ca78-4d71-80b7-72878fee4242)
+![Screenshot 2024-11-11 212057](https://github.com/user-attachments/assets/2cddc755-404b-4949-8436-712946835915)
 
 
 Quantum Maze Generator and Random Utilities
