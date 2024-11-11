@@ -5,9 +5,9 @@ import QRandom
 
 # set the size of screen and the size of the cell and the thickness
 res= Width , Height = 1202,802
-tile=5
+tile=50
 cols,rows=Width//tile , Height//tile
-thickness=1
+thickness=3
 
 pygame.init()
 # sc=pygame.display.set_mode(res)
